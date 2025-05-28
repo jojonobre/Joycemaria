@@ -1,6 +1,10 @@
 <h1 align="center">💜 Joyce | Estudante de Ciência da Computação</h1>
 
 <p align="center">
+  <img src="https://github.com/jojonobre/Joycemaria/blob/main/perfil.jpeg?raw=true" alt="Joyce Apresentação" width="250"/>
+</p>
+
+<p align="center">
   🚀 Iniciando minha jornada como desenvolvedora <br/>
   💡 Apaixonada por tecnologia, aprendizado contínuo e desafios inspiradores
 </p>
@@ -51,7 +55,7 @@
 ### 📬 Onde me encontrar:
 <p align="center">
   <a href="https://www.linkedin.com/in/joyce-maria-86250231a/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:joycemaria@email.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:joycemaria.work@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
