@@ -2,17 +2,17 @@
 
 <p align="center">
   🚀 Iniciando minha jornada como desenvolvedora <br/>
-  💡 Apaixonada por tecnologia, aprendizado contínuo e novos desafios
+  💡 Apaixonada por tecnologia, aprendizado contínuo e desafios inspiradores
 </p>
 
 ---
 
 ### 🌱 Atualmente estou aprendendo:
-- 🌐 **HTML, CSS e JavaScript** – Desenvolvimento web
-- 🐍 **Python** – Lógica, automação e back-end
-- 📱 **Ionic** – Desenvolvimento de aplicativos híbridos
-- ☕ **Java** – Programação orientada a objetos
-- 🗄️ **SQL, MongoDB e ZODB** – Banco de dados relacionais e não-relacionais
+- 🌐 [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML), [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS) e [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) – Desenvolvimento web
+- 🐍 [Python](https://www.python.org/) – Lógica, automação e back-end
+- 📱 [Ionic](https://ionicframework.com/) – Desenvolvimento de aplicativos híbridos
+- ☕ [Java](https://www.java.com/pt-BR/) – Programação orientada a objetos
+- 🗄️ [SQL](https://www.mysql.com/), [MongoDB](https://www.mongodb.com/) e [ZODB](https://zodb.org/en/latest/) – Banco de dados relacionais e não-relacionais
 
 ---
 
@@ -33,18 +33,29 @@
 ---
 
 ### 🚀 Meus objetivos por aqui:
-- Criar e compartilhar projetos próprios; 
-- Aprender com a prática e com a comunidade; 
-- Registrar minha evolução como desenvolvedora 
+- Criar e compartilhar projetos próprios  
+- Aprender com a prática e com a comunidade  
+- Registrar minha evolução como desenvolvedora  
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jojonobre&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jojonobre&layout=compact&theme=radical" alt="Top Langs"/>
+</p>
 
 ---
 
 ### 📬 Onde me encontrar:
 <p align="center">
   <a href="https://www.linkedin.com/in/joyce-maria-86250231a/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:seuemail@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:joycemaria@email.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
 
 <p align="center">✨ Obrigada por visitar meu perfil! </p>
+
+
